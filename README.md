@@ -1,4 +1,4 @@
-# Tutorial for running HIDE based on BIKE parameters
+# Tutorial for running PQHIDE based on BIKE parameters
 
 1 - Import the different project files into a Google Drive account</br>
 2 - Open the QC_MDPC.ipynb file with google colaboratory</br>
