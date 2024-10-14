@@ -1,4 +1,4 @@
-# PQHIDE Tutorial
+# PQHIDE Execution Tutorial
 
 1 - Import the different project files into a Google Drive account</br>
 2 - Open the QC_MDPC.ipynb file with google colaboratory</br>
